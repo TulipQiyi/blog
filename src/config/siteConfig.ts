@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "柒屹的个人博客awa",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://qiyi.cldery.com",
 
 	// 站点描述
 	description:
