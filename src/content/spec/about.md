@@ -25,13 +25,12 @@
 - Java
 - Spring
 - JavaScript
-- Lua
+- Lua(u)
 
 ## 🌟 开源与社区
 
 参与或贡献过的 GitHub 开源项目：
 
-- [MohistMC/Youer](https://github.com/MohistMC/Youer)
 - [PolyhedralDev/Terra](https://github.com/PolyhedralDev/Terra)
 - 云术工作室（ClouderyStudio）旗下项目：`psychology`、`qisoul`、`docs`、`zhuxs-site`、`site` 等
 
